@@ -23,6 +23,9 @@ a{
     border-radius: 8px;
     opacity: 0.8;
     transition: 0.5s;
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
 
 }
 
@@ -245,7 +248,7 @@ a{
  .row-container2{
     width: 843px;
     height: 290px;
-    gap: 28;
+    gap: 28px;
     padding: 36px;
     border-radius: 16px;
     background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
@@ -286,6 +289,11 @@ a{
     
  }
 
+ .text-content2 a{
+    width: 44%;
+    margin-bottom: 2rem;
+ }
+
 .text-content2 h2{
     color: rgba(13, 19, 33, 0.7);
     font-size: 24px;
@@ -307,9 +315,7 @@ a{
     margin-bottom: 24px;
 }
 
-.text-content2 a{
-    width: 39%;
-}
+
 .image-content2{
     width: 35%;
  
