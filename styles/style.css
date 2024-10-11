@@ -567,3 +567,8 @@ a{
     background: rgba(13, 19, 33, 0.03);
     padding: 30px 145px;
 }
+
+.social-media{
+    display: flex;
+    gap: 20px;
+}
