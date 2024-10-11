@@ -60,7 +60,7 @@ a{
 
 
 .hero{
-    background: url(/image/Hero-bg.png) ;
+    background: url(./image/Hero-bg.png) ;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -514,7 +514,7 @@ a{
 
 .newsletter{
     margin-top: 42px;
-    background:linear-gradient(rgba(0, 0, 0, 0.324),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.329)), url(/image/handshake.jpg);
+    background:linear-gradient(rgba(0, 0, 0, 0.324),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.329)), url(./image/handshake.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
