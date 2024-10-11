@@ -431,3 +431,84 @@ a{
     border-radius: 16px;
     background: rgba(255, 223, 0, 0.05);
 }
+
+.next-target{
+    margin-top: 100px;
+}
+
+.next-target-content{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+
+}
+
+.next-target-content .card4{
+    width: 100%;
+    padding: 2rem;
+    
+    gap: 1rem;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+
+}
+
+.card5{
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    padding: 2rem;
+    gap: 2rem;
+}
+.card6{
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    padding: 2rem;
+    gap: 1rem;
+}
+
+.card-content{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.card-content h3{
+   color: rgb(13, 19, 33);
+   font-size: 20px;
+   font-weight: 800;
+   line-height: 36px;
+   letter-spacing: 0%;
+   text-align: left;
+
+}
+
+.card-content p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.card-content a{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
